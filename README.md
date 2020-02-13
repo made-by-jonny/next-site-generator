@@ -1,4 +1,4 @@
-# next-site-genrator
+# next-site-generator
 
 Out of the box it is setup to work as a blog, but it could easily be adapted to any other simple website such as a portfolio.
 NextJS & React are fundamental to this project, so you could create something quite complex from this. 
