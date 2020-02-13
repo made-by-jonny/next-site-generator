@@ -13,8 +13,6 @@ these files will be listed on the index page.
 npm install
 npm run dev 
 
-### Add post 
-
 ### To export static
 
 npm run export 
